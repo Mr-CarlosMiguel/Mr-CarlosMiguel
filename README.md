@@ -1,7 +1,7 @@
 ## Olá me chamo Carlos Miguel
 
-- 🔭 Hoje trabalho com Front-End, mas também domino um pouco do Back-End
-- 🌱 Esudando JS e TS
+- 🔭 Hoje estudo para ser um FullStack.
+- 🌱 Esudando JS e ReactJs
 - 📫 Contate-me: cientistamiguel2@gmail.com
 
 <div align="center">
