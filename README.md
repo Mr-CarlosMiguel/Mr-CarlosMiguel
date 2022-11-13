@@ -1,7 +1,7 @@
 ## Olá me chamo Carlos Miguel
 
 - 🔭 Hoje estudo para ser um FullStack.
-- 🌱 Esudando JS e ReactJs
+- 🌱 Esudando TS, ReactJs (com Next), NodeJs. 
 - 📫 Contate-me: cientistamiguel2@gmail.com
 
 <div align="center">
