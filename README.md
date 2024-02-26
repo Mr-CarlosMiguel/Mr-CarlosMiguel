@@ -1,8 +1,7 @@
-## Olá me chamo Carlos Miguel
+## Hi, Carlos Miguel here!
 
-- 🔭 Desenvolvedor FullStack.
-- 🌱 Estudando micro-serviços e testes unitarios. 
-- 📫 Contate-me: cientistamiguel2@gmail.com
+- 🔭 Senior FrontEnd Engineer 
+- 📫 Contate-me: https://www.linkedin.com/in/mr-carlos-miguel/
 
 <div align="center">
   <a href="https://github.com/Mr-CarlosMiguel">
