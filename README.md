@@ -1,7 +1,7 @@
 ## Hi, Carlos Miguel here!
 
 - 🔭 Senior FrontEnd Engineer 
-- 📫 Contate-me: https://www.linkedin.com/in/mr-carlos-miguel/
+- 📫 Contate-me: https://www.linkedin.com/in/mr-carlos-miguel/?locale=pt
 
 <div align="center">
   <a href="https://github.com/Mr-CarlosMiguel">
@@ -25,9 +25,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 ##
   
 <div>
-  <a href="https://www.instagram.com/cmiguel.mr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/devmiguel_oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cientistamiguel2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-miguel-dos-santos-029837221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/carlos-miguel-dos-santos-029837221/](https://www.linkedin.com/in/mr-carlos-miguel/?locale=pt)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
